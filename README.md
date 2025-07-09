@@ -40,5 +40,5 @@ IoT-Heartbeat-Monitoring-System/
 
 ## 👨‍💻 Developed By
 **Saksham Singh**  
-B.Tech IT, VIT Vellore  
+B.Tech ECE, VIT Vellore  
 GitHub: [@sakshaammm21](https://github.com/your-username)
